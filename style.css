@@ -1,0 +1,43 @@
+#sana-img{
+    width: 3.5rem;
+    border-radius: 50%;
+    border-right: 4px solid rgb(101, 101, 223);
+}
+.min{
+    display: flex;
+    justify-content: center;
+}
+.title{
+    text-align: center;
+}
+.Review{
+    text-align: center;
+}
+.Review{
+    border: solid;
+    width: 20rem;
+    padding: 2%;
+    background-color: aliceblue;
+}
+.click{
+    padding: 1%;
+}
+img{
+    width: 5rem;
+    border-radius: 50%;
+    border-right: 4px solid rgb(101, 101, 223);
+
+}
+#job{
+    color: rgb(7, 136, 169);
+}
+i{
+    color: rgb(7, 136, 169);  
+}
+.random-btn{
+    color: rgb(7, 136, 169);  
+    padding: 1%;
+}
+.button-container{
+    padding: 0.5rem;
+}
